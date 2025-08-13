@@ -1,4 +1,4 @@
-*.kooora.com
+kooora.com
 *.google.com
 1-you.njalla.no
 19covid-gouv12.com
